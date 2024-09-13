@@ -1,0 +1,25 @@
+form {
+    max-width: 200px;
+    margin: 40px auto;
+    background: blue;
+    padding: 10px;
+    display: hidden;
+}
+.divineButton{
+    margin-top: 20px;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+    align-items: center;
+    text-align: center;
+}
+.rules{
+    margin-top: 20px;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    align-items: center;
+    font-size: xx-large;
+    background-color: lightgray;
+}
